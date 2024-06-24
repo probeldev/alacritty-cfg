@@ -1,3 +1,3 @@
 mkdir ~/.config/alacritty
 
-cp alacritty.yml ~/.config/alacritty/alacritty.yml
+cp alacritty.toml ~/.config/alacritty/alacritty.toml
